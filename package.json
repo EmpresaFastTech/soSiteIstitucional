@@ -1,0 +1,9 @@
+{
+  "name": "soinstitucional-fasttech",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./institucional/bin/www",
+    "postinstall": "cd institucional && npm install"
+  }
+}
